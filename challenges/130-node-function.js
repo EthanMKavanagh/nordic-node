@@ -10,7 +10,7 @@
 
 module.exports = function (numberOfBoxes) {
     // YOUR CODE HERE
-
+    return ( ( numberOfBoxes / 2 ) + 2 );
 }
 
 // now run `node test.js` in the terminal, to see what happens
