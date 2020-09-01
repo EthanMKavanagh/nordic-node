@@ -19,6 +19,7 @@ module.exports = function (numberOfBoxes) {
 
 // Take a look at `test.js` and think about what is happening here.
 // What do the first few lines do? How do `module.exports` and `require` relate to each other?
+// ANSWER: Sourcing in the separate 'js' files and assigning variables.
 
 // STRETCH: You may not have half of a dog
 // If 3.5 dogs are required, the response should be 4
