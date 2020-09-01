@@ -23,3 +23,9 @@ module.exports = function (numberOfBoxes) {
 
 // STRETCH: You may not have half of a dog
 // If 3.5 dogs are required, the response should be 4
+// ANSWER: You would need to round the dogs up if it becomes a decimal.
+/*
+module.exports = function (numberOfBoxes) {
+    return ( ceil( ( numberOfBoxes / 2 ) + 2 ) );
+}
+*/
